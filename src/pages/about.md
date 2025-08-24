@@ -1,37 +1,27 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: "About 关于"
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+我是疯狂的石头，一个在互联网上的冲浪者，喜欢关注互联网上的各种有趣内容。这是我的博客，在互联网上刚开辟出来的一片空间，我在这片角落里记录我的思考、生活。这里目前也许会有点简陋，但是一切都在井然有序的丰富中。
 
-![Astro Paper](public/astropaper-og.jpg)
+## Now...
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+最后更新时间：2025年08月24日:
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+- 🪴持续开垦这片空间
 
-## Features
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+本项目灵感来源于 [Nownownow.com](https://nownownow.com/about).
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+## 博客构架
 
-and so much more.
+- 框架：[Astro](https://astro.build/)
+- 主题：[AstroPaper](https://github.com/CrazyLeiGe/astro-paper)
+- 托管：[Vercel](https://vercel.com/)
 
-## Show your support
+## 站点历程
 
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
-
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
-
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
-
-Kyay zuu! 🙏🏼
+- 2025年08月20日: 更改博客框架为Astro，并托管在Vercel上
+- 2025年03月20日: 博客正式上线，运行在NETCUP云服务器上
+- 2025年03月01日: 注册d1lab.com域名，并开始博客搭建,采用WordPress框架
