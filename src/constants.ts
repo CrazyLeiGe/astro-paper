@@ -8,6 +8,21 @@ import IconFacebook from "@/assets/icons/IconFacebook.svg";
 import IconTelegram from "@/assets/icons/IconTelegram.svg";
 import IconPinterest from "@/assets/icons/IconPinterest.svg";
 import { SITE } from "@/config";
+import type { GiscusProps } from "@giscus/react";
+
+//giscus配置
+export const GISCUS: GiscusProps = {
+  repo: "CrazyLeiGe/astro-paper",
+  repoId: "R_kgDOPi9XFg",
+  category: "Announcements",
+  categoryId: "DIC_kwDOPi9XFs4Cuh26",
+  mapping: "pathname",
+  reactionsEnabled: "0",
+  emitMetadata: "0",
+  inputPosition: "top",
+  lang: "zh-CN",
+  loading: "lazy",
+};
 
 interface Social {
   name: string;
