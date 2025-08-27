@@ -26,3 +26,4 @@ pnpm-debug.log*
 # pagefind
 
 public/pagefind
+src/data/blog/sync.ffs_db
