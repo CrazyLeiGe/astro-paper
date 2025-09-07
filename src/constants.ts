@@ -52,7 +52,7 @@ export const SOCIALS: Social[] = [
   // },
   {
     name: "Mail",
-    href: "mailto:ryan@d1lab.com",
+    href: "mailto:crazyleige@proton.me",
     linkTitle: `发送邮件给 ${SITE.title}`,
     icon: IconMail,
   },
