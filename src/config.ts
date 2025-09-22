@@ -2,7 +2,7 @@ export const SITE = {
   website: "https://www.d1lab.com/", // 用你已部署的域名替换此处内容
   author: "疯狂的石头",
   profile: "null",
-  desc: "一个互联网上的冲浪者，有一颗爱好折腾的心。",
+  desc: "享受折腾的乐趣",
   title: "D1实验室",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
