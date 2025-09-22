@@ -2,7 +2,7 @@ export const SITE = {
   website: "https://www.d1lab.com/", // 用你已部署的域名替换此处内容
   author: "疯狂的石头",
   profile: "null",
-  desc: "享受折腾的乐趣",
+  desc: "个人日常折腾记录簿，野路子思维和实用干货的聚集地，享受乐趣的乐趣，愿你也从中找到同好",
   title: "D1实验室",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
@@ -14,7 +14,7 @@ export const SITE = {
   editPost: {
     enabled: false,
     text: "编辑页面",
-    url: "https://github.com/satnaing/astro-paper/edit/main/",
+    url: "https://github.com/CrazyLeiGe/astro-paper/edit/main/",
   },
   dynamicOgImage: true,
   dir: "ltr", // "rtl" | "auto"
