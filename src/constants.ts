@@ -46,7 +46,7 @@ export const SOCIALS: Social[] = [
   },
   {
     name: "Mastodon",
-    href: "https://wts.im/@crazystone",
+    href: "https://m.d1lab.com/@crazystone",
     linkTitle: `${SITE.title} on Mastodon`,
     icon: IconMastodon,
   },
